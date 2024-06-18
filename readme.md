@@ -27,7 +27,6 @@ time taken to build this page : 1.5 hours [along with media queries, active stat
 
 - positioning
 - flexbox
-- for statically positioned items we cant provide z-index
 - media queries
 - using css variables
 - using google fonts
